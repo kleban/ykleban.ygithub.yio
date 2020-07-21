@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kleban.page/uk/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kleban.page/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://kleban.page/uk/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kleban.page/uk/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kleban.page/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://kleban.page/uk/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kleban.page/uk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kleban.page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://kleban.page/uk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kleban.page/uk/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kleban.page/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://kleban.page/uk/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kleban.page/uk/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kleban.page/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://kleban.page/uk/tags/"
+                />
+  </url>
+  
+</urlset>
