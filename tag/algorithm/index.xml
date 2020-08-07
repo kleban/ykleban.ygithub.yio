@@ -27,6 +27,7 @@
     &lt;li&gt;&lt;a href=&#34;#24ствоерення-блок-схем-з-використанням-drawio&#34;&gt;2.4.	Ствоерення блок-схем з використанням draw.io&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#контрольні-запитання&#34;&gt;Контрольні запитання&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#список-використаних-джерел&#34;&gt;Список використаних джерел&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#додаткові-матеріали-для-завнатаження&#34;&gt;Додаткові матеріали для завнатаження&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;hr&gt;
@@ -432,7 +433,7 @@
 &lt;p&gt;
   &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 5.&lt;/strong&gt; Побудувати блок-схему алгоритму знаходження суми елементів у масиву.&lt;/p&gt;
 &lt;p&gt;
-  &lt;i class=&#34;far fa-info-o text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Введемо позначення: $ n $ – кількість елементів масиву, $ sum $ – змінна, що визначає суму, $ x_i $ – $ і $-й елемент масиву.&lt;/p&gt;
+  &lt;i class=&#34;fas fa-info-circle text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Введемо позначення: $ n $ – кількість елементів масиву, $ sum $ – змінна, що визначає суму, $ x_i $ – $ і $-й елемент масиву.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
 &lt;center&gt;
@@ -474,6 +475,96 @@
  &lt;/center&gt;
 &lt;br&gt;
 &lt;hr&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 6.&lt;/strong&gt; Побудувати блок-схему алгоритму знаходження середнього значення елементів масиву.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-info-circle text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ця задача відрізнється від попередньої лише появою нової змінної $ avg $ – середнє значення.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-210-блок-схема-до-задачі-6&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; data-caption=&#34;Рис. 2.10. Блок-схема до задачі №6&#34;&gt;
+
+
+  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.10. Блок-схема до задачі №6
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+ &lt;/center&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 7.&lt;/strong&gt; Побудувати блок-схему алгоритму знаходження максимального елемента у масиві.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-info-circle text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Введемо позначення: $ max $ – максимальний елемент, $ n $ - кількість елементів у масиві, $ x_i $ – $ і $-й елемент масиву. Припускаємо що масив уже заповнений і наперед відомо кількість елементів у масиві.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-210-блок-схема-до-задачі-7&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; data-caption=&#34;Рис. 2.10. Блок-схема до задачі №7&#34;&gt;
+
+
+  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.10. Блок-схема до задачі №7
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+ &lt;/center&gt;
+&lt;br&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;23ствоерення-блок-схем-з-використанням-diagramm-designer&#34;&gt;2.3.	Ствоерення блок-схем з використанням Diagramm Designer&lt;/h2&gt;
 &lt;p&gt;Description
 Simple vector graphics editor for creating flowcharts, UML class diagrams, illustrations and slide shows.&lt;/p&gt;
@@ -504,9 +595,36 @@ Uses compressed file format for minimizing drawing file size.&lt;/p&gt;
   &lt;i class=&#34;fas fa-book fa-2x text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
 &lt;h2 id=&#34;список-використаних-джерел&#34;&gt;Список використаних джерел&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Ada Lovelace on Wikipedia. Url: &lt;a href=&#34;https://en.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;https://en.wikipedia.org/wiki/Ada_Lovelace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;DiagramDesigner. Url: &lt;a href=&#34;https://logicnet.dk/DiagramDesigner/&#34;&gt;https://logicnet.dk/DiagramDesigner/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Draw.IO. Url: &lt;a href=&#34;https://www.diagrams.net/&#34;&gt;https://www.diagrams.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ada Lovelace on Wikipedia. Url: &lt;a href=&#34;https://en.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;https://en.wikipedia.org/wiki/Ada_Lovelace&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DiagramDesigner. Url: &lt;a href=&#34;https://logicnet.dk/DiagramDesigner/&#34;&gt;https://logicnet.dk/DiagramDesigner/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Draw.IO. Url: &lt;a href=&#34;https://www.diagrams.net/&#34;&gt;https://www.diagrams.net/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Albahari, J., &amp;amp; Albahari, B. (2012). C# 5.0 in a Nutshell, Fifth Edition. 1005 Gravenstein Highway North, Sebastopol, USA: O’Reilly Media, Inc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cardelli, L., &amp;amp; Wegner, P. (December 1985 p.). On Understanding Types, Data Abstraction, and Polymorphism. ACM Computing 1. Surveys, 17(4), сс. 149-154. Отримано з &lt;a href=&#34;http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf&#34;&gt;http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kort, W. d. (2013). Exam Ref 70-483: Programming in C#. Sebastopol, California 95472: O’Reilly Media, Inc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MSDN. (без дати). Отримано з Microsoft Developer Network: &lt;a href=&#34;http://msdn.microsoft.com/&#34;&gt;http://msdn.microsoft.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Биллиг, А. (2005). Основы программирования на C#. Москва, Россия: НОУ ИНТУИТ.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Нейгел, К. И. (2011). С# 4.0 и платформа .NET 4 для профессионалов. Москва, Россия: ООО &amp;ldquo;И.Д. Вильямс&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Павловская, Т. (2009). С#. Программирование на языке высокого уровня. Учебник для вузов. СПб, Россия: Питер.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;!--
 ---
@@ -515,7 +633,21 @@ Uses compressed file format for minimizing drawing file size.&lt;/p&gt;
   &lt;i class=&#34;fas fa-list-alt fa-2x text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
 ## Задачі
 --&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.diagrams.net/assets/svg/home-dia1.svg&#34;&gt;https://www.diagrams.net/assets/svg/home-dia1.svg&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+  &lt;i class=&#34;fas fa-download fa-2x  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;h2 id=&#34;додаткові-матеріали-для-завнатаження&#34;&gt;Додаткові матеріали для завнатаження&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Лекція у форматі DOCX 
+&lt;a href=&#34;&#34;&gt;
+  &lt;i class=&#34;fas fa-file-word  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Лекція у форматі PDF 
+&lt;a href=&#34;&#34;&gt;
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Діаграми до лекції у форматі &lt;code&gt;draw.io&lt;/code&gt; 
+&lt;a href=&#34;&#34;&gt;
+  &lt;i class=&#34;fas fa-file-image  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Перейти&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
