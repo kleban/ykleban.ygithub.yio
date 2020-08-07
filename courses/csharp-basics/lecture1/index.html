@@ -1,0 +1,1058 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Nelson Bighetti">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="План 1.1.	Загальні категорії та поняття програмування 1.2.	Коротка історія програмування та виникнення мови C#  1.2.1.	Парадигми програмування   Список використаних джерел   1.1.	Загальні категорії та поняття програмування Перед початком вивчення програмування варто розглянути та розібрати базові поняття та категорії.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/courses/csharp-basics/lecture1/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700%7COpen+Sans%7CIBM+Plex+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15046391-45"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-15046391-45', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/courses/csharp-basics/lecture1/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="kleban.page">
+  <meta property="og:url" content="/courses/csharp-basics/lecture1/">
+  <meta property="og:title" content="Лекція 1. Вступ до основ програмування на платформі .NET | kleban.page">
+  <meta property="og:description" content="План 1.1.	Загальні категорії та поняття програмування 1.2.	Коротка історія програмування та виникнення мови C#  1.2.1.	Парадигми програмування   Список використаних джерел   1.1.	Загальні категорії та поняття програмування Перед початком вивчення програмування варто розглянути та розібрати базові поняття та категорії."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-07-08T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2020-07-08T00:00:00&#43;01:00">
+  
+
+  
+
+
+
+  
+
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "/privacy/"
+      }
+    })});
+  </script>
+
+
+
+  
+
+
+
+
+
+  <title>Лекція 1. Вступ до основ програмування на платформі .NET | kleban.page</title>
+
+</head>
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">kleban.page</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">kleban.page</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#hero"><span>Demo</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/csharp-basics/">Про курс</a>
+
+  </div>
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/courses/csharp-basics/lecture1/">1. Вступ до курсу</a>
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#11загальні-категорії-та-поняття-програмування">1.1.	Загальні категорії та поняття програмування</a></li>
+    <li><a href="#12коротка-історія-програмування-та-виникнення-мови-c">1.2.	Коротка історія програмування та виникнення мови C#</a>
+      <ul>
+        <li><a href="#121парадигми-програмування">1.2.1.	Парадигми програмування</a></li>
+      </ul>
+    </li>
+    <li><a href="#список-використаних-джерел">Список використаних джерел</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Лекція 1. Вступ до основ програмування на платформі .NET</h1>
+
+          <div class="article-style">
+            <hr>
+<h2>План</h2>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#11загальні-категорії-та-поняття-програмування">1.1.	Загальні категорії та поняття програмування</a></li>
+    <li><a href="#12коротка-історія-програмування-та-виникнення-мови-c">1.2.	Коротка історія програмування та виникнення мови C#</a>
+      <ul>
+        <li><a href="#121парадигми-програмування">1.2.1.	Парадигми програмування</a></li>
+      </ul>
+    </li>
+    <li><a href="#список-використаних-джерел">Список використаних джерел</a></li>
+  </ul>
+</nav>
+<hr>
+<h2 id="11загальні-категорії-та-поняття-програмування">1.1.	Загальні категорії та поняття програмування</h2>
+<p>Перед початком вивчення програмування варто розглянути та розібрати базові поняття та категорії. Дамо визначення понять: алгоритм, задача, програмування, мова програмування, програма, програмне забезпечення, розробка програмного забезпечення.</p>
+<p><strong>Програмування</strong> – розробка програм за допомогою мов програмування.</p>
+<p><strong>Мова програмування</strong> – це формальна система знаків, що призначена для написання програм, зрозуміла для виконавця (комп’ютера).</p>
+<p><strong>Програма</strong> (<code>program</code>, <code>routine</code>) — впорядкована послідовність команд (інструкцій) комп&rsquo;ютера для розв&rsquo;язання задачі.</p>
+<p><strong>Програмне забезпечення</strong> (<code>software</code>) — сукупність програм обробки даних та необхідних для їх експлуатації документів. Програми призначені для машинної реалізації завдань (Задач). Терміни завдання і застосування (програма) мають дуже широке вживання в контексті інформатики і програмного забезпечення.</p>
+<p><strong>Завдання</strong> або <strong>задача</strong> (<code>problem</code>, <code>task</code>) — проблема, що підлягає вирішенню.</p>
+<p><strong>Застосування</strong> або <strong>програма</strong> (<code>application</code>) — програмна реалізація на комп&rsquo;ютері рішення задачі.</p>
+<p><strong>Розробка програмного забезпечення</strong> (англ. <code>software engineering</code>, <code>software development</code>) — це рід діяльності (професія) і процес, спрямований на створення і підтримку працездатності, якості та надійності програмного забезпечення, використовуючи технології, методологію та практики з інформатики, управління проектами, математики, інженерії та інших сфер знань.</p>
+<p><strong>Алгоритм</strong> (<code>Algorithmi</code>, від імені перського математика IX ст. аль-Хорезмі) — система правил виконання обчислювального процесу, що обов&rsquo;язково приводить до розв&rsquo;язання певного класу задач після скінченного числа операцій. При написанні комп&rsquo;ютерних програм алгоритм описує логічну послідовність операцій. Для візуального зображення алгоритмів часто використовують блок-схеми. Засоби швидкої розробки додатків (RAD) дозволяють створити програмний продукт, що складається з ряду застосувань, що дозволяють користувачам вводити дані в таблиці або редагувати вже існуючі дані, аналізувати введені дані і представляти їх у більш зручному для сприйняття вигляді - графіків, зведених таблиць або звітів (у тому числі у вигляді &ldquo;паперових&rdquo; документів).</p>
+<hr>
+<h2 id="12коротка-історія-програмування-та-виникнення-мови-c">1.2.	Коротка історія програмування та виникнення мови C#</h2>
+<h3 id="121парадигми-програмування">1.2.1.	Парадигми програмування</h3>
+<p>Усе програмування прийнято поділяти на два основних види:</p>
+<ul>
+<li>Декларативне.</li>
+<li>Імперативне.</li>
+</ul>
+<p><strong>Декларативне програмування</strong> — термін з двома різними значеннями. Згідно першому визначенню, програма «декларативна», якщо вона описує щось, а не як його створити. Наприклад, веб-сторінки на HTML декларативні, оскільки вони описують що повинна містити сторінка, а не як відображати сторінку на екрані. Цей підхід відрізняється від мов імперативного програмування, що вимагають від програміста вказувати алгоритм для виконання.</p>
+<p>Згідно другому визначенню, програма «декларативна», якщо вона написана на виключно функціональній, логічній або константній мові програмування.</p>
+<p><strong>Імперативне програмування</strong> — парадигма програмування, згідно з якою описується процес отримання результатів як послідовність інструкцій зміни стану програми. Подібно до того, як з допомогою наказового способу в мовознавстві перелічується послідовність дій, що необхідно виконати, імперативні програми є послідовністю операцій комп&rsquo;ютеру для виконання.</p>
+<p><strong>Парадигма програмування</strong> — це спосіб мислення розробника програми. Мова програмування може підтримувати або не підтримувати ту чи іншу парадигму. В першому випадку застосування парадигми стає зручним, тобто простим, безпечним і ефективним. Ми розглянемо три основних наказових парадигми — процедурне, об’єктне (модульне) і об’єктно-орієнтовне (ієрархічне) програмування.</p>
+<p><em><strong>Процедурне програмування</strong></em></p>
+<p>Процедурне програмування подає програму у вигляді набору алгоритмів, для оформлення яких можуть застосовуватися іменовані програмні блоки — процедури і функції. В останньому випадку передбачається наявність механізмів передачі параметрів і поверненні результату.</p>
+<p>Спочатку процедурне програмування користувалося довільними засобами керування, в тому числі, переходом за міткою — одним з найбільш вживаних операторів керування в Фортрані.</p>
+<p>До мов процедурного програмування відносяться Fortran, Cobol, Pascal, Basic, та інші.</p>
+<p>В 1968 році голландський вчений Е. Дейкстра вперше звернув увагу на проблеми, що виникають у програмах з неконтрольованими переходами, в 1970 році проголосив новий напрямок, який він назвав структур(ова)ним програмуванням.</p>
+<p><strong>Структурне програмування</strong> — це варіант процедурного, що вживає три типи структур керування: послідовне виконання дій, розгалуження і цикл. Не дивно, що Фортран не підтримував цю парадигму — в наборі його засобів не було циклів за умовами. Починаючи з Алголу, а особливо в Паскалі, цикли стають основним засобом організації обчислень в програмі.</p>
+<p>Автор Паскалю, професор Н. Вірт, відібрав до створюваної ним мови програмування лише прості в поясненні і легкі в реалізації конструкції. Завдяки сильній типізації програми в Паскалі відзначаються високою надійністю, вони мобільні завдяки закладеній в них концепції Паскаль-машини, їх легко читати і розуміти завдяки дисципліні програмування, продиктованої вжитою парадигмою.</p>
+<p>Але разом з цим застосування Паскалю гальмувалося саме складністю виходу за межі віртуальної машини, потребою ефективного використання наявної апаратури. Головним критерієм, вжитим Б.Керніганом і Д.Річі до створеної ними мови С, стала саме гнучкість використання особливостей конкретної апаратури і ефективність виконання програм.</p>
+<p><em><strong>Об’єктне (модульне) програмування</strong></em></p>
+<p>Процедурна парадигма віддала належне алгоритмічній компоненті програмування. Але з ростом обсягу програм і складності даних з&rsquo;явилася нова проблема структурної організації даних, найбільш ємко висловлена Віртовською формулою <strong><code>алгоритми + структури даних = програми</code></strong>.</p>
+<p>Поняття модуля як абстракції даних було вперше запропоноване Парнасом у 
+1972 році, правда на той час уже існувала мова програмування Симула 67, в якій використовувалася парадигма об&rsquo;єктів. У найбільш повному виді поняття абстракції даних було реалізоване в мові програмування Модула-2.</p>
+<p>Головна ідея полягає в забезпеченні доступу до даних, не залежному від їх конкретного представлення. Самі дані і програми їх обробки вбудовуються (інкапсулюються) в окремій одиниці програми.</p>
+<p><em><strong>Об’єктно-орієнтовне програмування</strong></em></p>
+<p>Об&rsquo;єктно-орієнтована парадигма наділила класи ієрархією.</p>
+<p>Об&rsquo;єктно-орієнтоване програмування за метафорою Б.Страуструпа, автора <code>С++</code> — однієї з найпопулярніших мов об&rsquo;єктно-орієнтованого програмування, — це високоінтелектуальний синонім доброго програмування. Дійсно, нові парадигми програмування з&rsquo;являються не так часто, не частіше однієї в десятиліття. Той факт, що об&rsquo;єктно-орієнтована парадигма успішно використовується протягом 20 років, сам по собі служить вагомим підтвердженням її життєздатності.</p>
+<p>Алгоритми, реалізовані в процедурному програмуванні, надто конкретні. Будь-яка модифікація — це вже новий алгоритм і таким чином кількість процедур і функцій, що знаходяться у використанні, надмірно зростає. Модульне програмування групує алгоритми в модулі, одночасно інкапсулюючи структури даних. Тепер залишається зробити наступний крок — побудувати ієрархію модулів або класів.</p>
+<p>Таких ієрархій може бути дві. Перша з них — бути частиною чогось. Наприклад, грань є частиною многогранника, ребро — частиною грані, вершина — частиною ребра. Інша ієрархія — бути узагальненням або конкретизацією.</p>
+<p>Наприклад, овал і многокутник служать конкретизацією плоскої фігури, коло — конкретизацією овалу, чотирикутник — конкретизацією многокутника, подальшими конкретизаціями чотирикутника можуть служити паралелограм, прямокутник, ромб, квадрат. Той факт, що квадрат, ромб, прямокутник є повноцінними паралелограмами дозволяє їм користуватися усіма програмними засобами, створеними для паралелограма, паралелограм в свою чергу є повноцінним чотирикутником і так далі. Цей принцип, відомий під назвою <code>reusable</code> — знову вживаний — став одним з найважливіших досягнень об&rsquo;єктно-орієнтованої парадигми. Знову вживаючи вже існуюче програмне забезпечення в більш конкретизованих умовах, ми дописуємо лише ту його частину, яка стосується особливостей наявної конкретизації. Цей принцип дістав назву <code>programming by difference</code> або дописування програм.</p>
+<p>І, нарешті, об&rsquo;єктно-орієнтована парадигма доводить до логічної завершеності принцип моделювання реального світу, а точніше тієї його частини, абстракцією якої служить програма. При цьому підході програма складається з об&rsquo;єктів, що відповідають реальним поняттям або предметам. Виконання програми зводиться до взаємодії об&rsquo;єктів, яке служить абстракцією реальної взаємодії їх прототипів. Все це разом забезпечило об&rsquo;єктно-орієнтованому підходу беззаперечне лідерство в галузі розробки програм.</p>
+<p>Сьогодні в сімействі мов об&rsquo;єктно-орієнтованого програмування три найбільш відомих представника: <code>С++</code>, <code>Java</code> і <code>C#</code> ( читається Сі шарп ). <code>С++</code> і сьогодні залишається визнаним лідерів в розробці великих і складних програмних систем. <code>Java</code> і <code>C#</code> виросли з <code>С++</code>.</p>
+<div class="alert alert-note">
+  <div>
+    Дорогі друзі, якщо Ви помітили, що для написання матеріалів використані джерела, які я не вказав - прошу надіслати мені інформацію на пошту.
+Дякую.
+  </div>
+</div>
+<pre><code class="language-mermaid">graph TD
+A[Hard] --&gt;|Text| B(Round)
+B --&gt; C{Decision}
+C --&gt;|One| D[Result 1]
+C --&gt;|Two| E[Result 2]
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>First Header</th>
+<th>Second Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+</tbody>
+</table>
+<p>I : heart : Academic : smile :</p>
+<h2 id="список-використаних-джерел">Список використаних джерел</h2>
+
+          </div>
+
+          
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/csharp/">csharp</a>
+  
+  <a class="badge badge-light" href="/tag/economic-cybernetics/">economic cybernetics</a>
+  
+  <a class="badge badge-light" href="/tag/ostroh-academy/">ostroh academy</a>
+  
+  <a class="badge badge-light" href="/tag/c/">C#</a>
+  
+</div>
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/courses/csharp-basics/example2/" rel="next">Example Page 2</a>
+  </div>
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on Jul 8, 2020</p>
+
+          
+
+
+
+
+
+          
+
+
+          
+
+
+  
+  
+
+
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    © 2020 Yurii Kleban
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    Published with
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
+    
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/csharp.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/js.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
