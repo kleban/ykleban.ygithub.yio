@@ -702,7 +702,6 @@
 &lt;/figure&gt;
  
  &lt;/center&gt;
-&lt;br&gt;
 &lt;hr&gt;
 &lt;p&gt;
   &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 6.&lt;/strong&gt; Побудувати блок-схему алгоритму знаходження середнього значення елементів масиву.&lt;/p&gt;
@@ -747,7 +746,6 @@
 &lt;/figure&gt;
  
  &lt;/center&gt;
-&lt;br&gt;
 &lt;hr&gt;
 &lt;p&gt;
   &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 7.&lt;/strong&gt; Побудувати блок-схему алгоритму знаходження максимального елемента у масиві.&lt;/p&gt;
@@ -772,10 +770,10 @@
 
 
 
-&lt;figure id=&#34;figure-рис-210-блок-схема-до-задачі-7&#34;&gt;
+&lt;figure id=&#34;figure-рис-211-блок-схема-до-задачі-7&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; data-caption=&#34;Рис. 2.10. Блок-схема до задачі №7&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; data-caption=&#34;Рис. 2.11. Блок-схема до задачі №7&#34;&gt;
 
 
   &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; alt=&#34;&#34;  &gt;
@@ -785,40 +783,362 @@
   
   
   &lt;figcaption&gt;
-    Рис. 2.10. Блок-схема до задачі №7
+    Рис. 2.11. Блок-схема до задачі №7
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
  
  &lt;/center&gt;
-&lt;br&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;23ствоерення-блок-схем-з-використанням-diagramm-designer&#34;&gt;2.3.	Ствоерення блок-схем з використанням Diagramm Designer&lt;/h2&gt;
-&lt;p&gt;Description
-Simple vector graphics editor for creating flowcharts, UML class diagrams, illustrations and slide shows.&lt;/p&gt;
-&lt;p&gt;Features
-Customizable template object palette.
-Spellchecker (see below about dictionaries).
-Import/export WMF, EMF, BMP, JPEG, PNG, MNG, ICO, GIF and PCX images.
-Slide show viewer.
-Simple graph plotter to plot mathematical expressions.
-Advanced &amp;ldquo;pocket&amp;rdquo; calculator with equation solver.
-MeeSoft Image Analyzer integration for bitmap image editing and extended file format support.
-Uses compressed file format for minimizing drawing file size.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Diagramm Designer&lt;/strong&gt; - програмне забезпечення для побудови блок-схем, UML-діаграм, та інших зображень на основі векторної графіки. 
+&lt;a href=&#34;https://logicnet.dk/DiagramDesigner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити актуальну версію DiagramDesigner можна тут&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Перелік базових функцій Diagramm Designer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Налаштовувана палітра шаблонів.&lt;/li&gt;
+&lt;li&gt;Перевірка правопису.&lt;/li&gt;
+&lt;li&gt;Імпорт / експорт зображень &lt;code&gt;WMF&lt;/code&gt;, &lt;code&gt;EMF&lt;/code&gt;, &lt;code&gt;BMP&lt;/code&gt;, &lt;code&gt;JPEG&lt;/code&gt;, &lt;code&gt;PNG&lt;/code&gt;, &lt;code&gt;MNG&lt;/code&gt;, &lt;code&gt;ICO&lt;/code&gt;, &lt;code&gt;GIF&lt;/code&gt; та &lt;code&gt;PCX&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Переглядач слайд-шоу.&lt;/li&gt;
+&lt;li&gt;Зручний графічний редактор для відображення математичних виразів.&lt;/li&gt;
+&lt;li&gt;Калькулятор для розв&amp;rsquo;язання рівнянь.&lt;/li&gt;
+&lt;li&gt;Інтеграція з &lt;code&gt;MeeSoft Image Analyzer&lt;/code&gt; для редагування растрових зображень.&lt;/li&gt;
+&lt;li&gt;Мінімізація розміру файлів.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Розглянемо графічний інтерфейс продукту:&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-212-головне-вікно-програми-diagramm-designer-123&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; data-caption=&#34;Рис. 2.12. Головне вікно програми Diagramm Designer 1.23&#34;&gt;
+
+
+  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.12. Головне вікно програми Diagramm Designer 1.23
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Для створення діаграм використовуєть технологія &lt;code&gt;Drag&amp;amp;Drop&lt;/code&gt;, тобто елементи можна перетягувати на робочу область.
+Приклад створення діаграми можна переглянути на відео (у онлайн версії лекції).&lt;/p&gt;
+&lt;p&gt;Документ &lt;code&gt;DiagrammDesigner&lt;/code&gt; може мати кілька сторінок, переключення між сторінками за допомогою меню &lt;code&gt;Diagram&lt;/code&gt; - &lt;code&gt;Rearrange pages&lt;/code&gt; (рис. 2.13).&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-213-вибір-сторінки-у-програмі-diagramm-designer&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; data-caption=&#34;Рис. 2.13. Вибір сторінки у програмі Diagramm Designer&#34;&gt;
+
+
+  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.13. Вибір сторінки у програмі Diagramm Designer
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Для форматування тексту у межах графічних блоків (фігур) використовують наступні теги:&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-214-редагування-тексту-у-блоці-diagramm-designer&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; data-caption=&#34;Рис. 2.14. Редагування тексту у блоці Diagramm Designer.&#34;&gt;
+
+
+  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.14. Редагування тексту у блоці Diagramm Designer.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;&lt;em&gt;Таблиця 2.1. Теги для форматування тексту у графічних блоках DiagrammDesigner&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Код&lt;/th&gt;
+&lt;th&gt;Стиль&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\B…\b&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Напівжирний&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\U…\u&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Підкреслений&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\I…\i&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Курсив&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\O…\o&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Закреслений&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\\&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;\&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\H…\h&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Припіднятий до верху&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\S…\s&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Символьний шрифт&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\p&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Номер сторінки&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\L…\l&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Опущений до низу&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\C######&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Колір у HTML&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\P&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Загловок сторінки&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\c&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Кількість сторінок&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\_&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Горизонтальний розділювач&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\n&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Новий рядок&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\N&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Підказка&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;Таблиця 2.2. Приклади форматування тексту у графічних блоках DiagrammDesigner&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Код з тегами&lt;/th&gt;
+&lt;th&gt;Текст&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\B\ID=b\H2\h-4ac&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;$ D=b^2-4ac $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Вводимо значення &lt;code&gt;\Ba, b, c&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Вводимо значення $ a $, $ b $, $ c $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\ID &amp;gt; 0&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;$	D &amp;gt; 0 $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Вводимо &lt;code&gt;\B\Ix\Li\i&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Вводимо $ x_i $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;З іншими можливостями програмного подукту Diagramm Designer можна ознайомитися використовуючи вбудовану довідку програми.&lt;/p&gt;
 &lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
     Підтримка даного розділу лекції у майбутньому не планується і його варто використовувати швидше для ознайомлення та розширення кругозору слухачів курсу. Рекомендую використовувати &lt;code&gt;draw.io&lt;/code&gt;.
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;24ствоерення-блок-схем-з-використанням-drawio&#34;&gt;2.4.	Ствоерення блок-схем з використанням draw.io&lt;/h2&gt;
 &lt;p&gt;Варто звернути увагу, що усі діаграми для лекцій створені саме у &lt;code&gt;draw.io&lt;/code&gt; і можете завантажити їх у 
 &lt;a href=&#34;https://github.com/kleban/csharp-basics-public/blob/master/diagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;публічному репозиторії курсу на github&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;diagrams.net is open source, online, desktop and container deployable diagramming software&lt;/p&gt;
+&lt;p&gt;На даний момент проект є безкоштовним і розміщується за адресою 
+&lt;a href=&#34;http://diagrams.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://diagrams.net/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Досить зручною функцією є інтеграція сервісами для зберігання файлів діаграм:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fab fa-google-drive  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Google Drive.&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-cloud  pr-1 fa-fw&#34;&gt;&lt;/i&gt; OneDrive.&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fab fa-dropbox  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Dropbox.&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt; GitHub.&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fab fa-gitlab  pr-1 fa-fw&#34;&gt;&lt;/i&gt; GitLab.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-215-вибір-джерела-для-збереження-drawio&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; data-caption=&#34;Рис. 2.15. Вибір джерела для збереження &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt;&#34;&gt;
+
+
+  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.15. Вибір джерела для збереження &lt;code&gt;draw.io&lt;/code&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Графічний інтерфейс &lt;code&gt;draw.io&lt;/code&gt; є досить зручним у користуванні і дозволяє доповнити перелік доступних зображень, блоків, логотипів продуктів для створення схем будь-якого рівня складності.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-216-ui-головного-вікна-програми-drawio-для-windows&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; data-caption=&#34;Рис. 2.16. UI головного вікна програми &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt; для &amp;lt;code&amp;gt;Windows&amp;lt;/code&amp;gt;&#34;&gt;
+
+
+  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.16. UI головного вікна програми &lt;code&gt;draw.io&lt;/code&gt; для &lt;code&gt;Windows&lt;/code&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Досить зручною є функція збереження діаграм для публікації у веб або на паперових носіях формати файлів (png, jpeg, svg, pdf, html, xml), а також вбудовування їх у різні типи документів, що надають сервіси &lt;code&gt;Google&lt;/code&gt; та &lt;code&gt;Microsoft&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Для початку ознайомлення з сервісом &lt;code&gt;draw.io&lt;/code&gt; рекомендую переглянути коротке відео:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Z0D96ZikMkc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Джерело: 
+&lt;a href=&#34;https://www.youtube.com/channel/UCiTtRN9b8P4CoSfpkfgEJHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;youtube канал draw.io&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 
   &lt;i class=&#34;fas fa-question-circle fa-2x text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
 &lt;h2 id=&#34;контрольні-запитання&#34;&gt;Контрольні запитання&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Дати визначення поняття «алгоритм»?&lt;/li&gt;
+&lt;li&gt;Перелічіть властивості алгоритмів.&lt;/li&gt;
+&lt;li&gt;Якими способами можна представити алгоритм?&lt;/li&gt;
+&lt;li&gt;Які типові блоки для формування блок-схем алгоритмів ви знаєте? Як вони зображуються графічно?&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 
   &lt;i class=&#34;fas fa-book fa-2x text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
@@ -867,15 +1187,16 @@ Uses compressed file format for minimizing drawing file size.&lt;/p&gt;
   &lt;i class=&#34;fas fa-download fa-2x  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
 &lt;h2 id=&#34;додаткові-матеріали-для-завнатаження&#34;&gt;Додаткові матеріали для завнатаження&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Лекція у форматі DOCX 
+&lt;li&gt;&lt;del&gt;Лекція у форматі DOCX 
 &lt;a href=&#34;&#34;&gt;
-  &lt;i class=&#34;fas fa-file-word  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Лекція у форматі PDF 
+  &lt;i class=&#34;fas fa-file-word  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити&lt;/a&gt;&lt;/del&gt; (у розробці)&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Лекція у форматі PDF 
 &lt;a href=&#34;&#34;&gt;
-  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Діаграми до лекції у форматі &lt;code&gt;draw.io&lt;/code&gt; 
-&lt;a href=&#34;&#34;&gt;
-  &lt;i class=&#34;fas fa-file-image  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Перейти&lt;/a&gt;&lt;/li&gt;
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити&lt;/a&gt;&lt;/del&gt; (у розробці)&lt;/li&gt;
+&lt;li&gt;Діаграми до лекції у форматі &lt;code&gt;
+  &lt;i class=&#34;fas fa-project-diagram  pr-1 fa-fw&#34;&gt;&lt;/i&gt;draw.io&lt;/code&gt; на &lt;code&gt;
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt;github&lt;/code&gt; 
+&lt;a href=&#34;https://github.com/kleban/csharp-basics-public/tree/master/diagrams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Перейти&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
