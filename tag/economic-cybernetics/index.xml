@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>economic cybernetics | kleban.page</title>
-    <link>https://kleban.page/tag/economic-cybernetics/</link>
-      <atom:link href="https://kleban.page/tag/economic-cybernetics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/economic-cybernetics/</link>
+      <atom:link href="/tag/economic-cybernetics/index.xml" rel="self" type="application/rss+xml" />
     <description>economic cybernetics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Yurii Kleban</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://kleban.page/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>economic cybernetics</title>
-      <link>https://kleban.page/tag/economic-cybernetics/</link>
+      <link>/tag/economic-cybernetics/</link>
     </image>
     
     <item>
       <title>Лекція 1. Вступ до основ програмування на платформі .NET</title>
-      <link>https://kleban.page/courses/csharp-basics/lecture1/</link>
+      <link>/courses/csharp-basics/lecture1/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0100</pubDate>
-      <guid>https://kleban.page/courses/csharp-basics/lecture1/</guid>
+      <guid>/courses/csharp-basics/lecture1/</guid>
       <description>&lt;hr&gt;
 &lt;h2&gt;План&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -166,10 +166,10 @@
 &lt;figure id=&#34;figure-12-процес-запуску-net-програми&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-1-dotnet-code-run.svg&#34; data-caption=&#34;1.2. Процес запуску .NET-програми&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-1-dotnet-code-run.svg&#34; data-caption=&#34;1.2. Процес запуску .NET-програми&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-1-dotnet-code-run.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-1-dotnet-code-run.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -243,9 +243,9 @@
     
     <item>
       <title>Лекція 2. Основи алгоритмізації</title>
-      <link>https://kleban.page/courses/csharp-basics/lecture2/</link>
+      <link>/courses/csharp-basics/lecture3/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0100</pubDate>
-      <guid>https://kleban.page/courses/csharp-basics/lecture2/</guid>
+      <guid>/courses/csharp-basics/lecture3/</guid>
       <description>&lt;hr&gt;
 &lt;h2&gt;План&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -283,10 +283,10 @@
 &lt;figure id=&#34;figure-рис-21-баронеса-ада-лавлейс-яку-вважають-першим-програмістом-джерело-wikipedia&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/334px-Ada_Lovelace_portrait.jpg&#34; data-caption=&#34;Рис. 2.1. Баронеса Ада Лавлейс, яку вважають першим програмістом. Джерело: Wikipedia&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/334px-Ada_Lovelace_portrait.jpg&#34; data-caption=&#34;Рис. 2.1. Баронеса Ада Лавлейс, яку вважають першим програмістом. Джерело: Wikipedia&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/334px-Ada_Lovelace_portrait.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/334px-Ada_Lovelace_portrait.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -391,10 +391,10 @@
 &lt;figure id=&#34;figure-рис-22-типові-блоки-для-формування-блок-схем-алгоритмів&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; data-caption=&#34;Рис. 2.2. Типові блоки для формування блок-схем алгоритмів.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; data-caption=&#34;Рис. 2.2. Типові блоки для формування блок-схем алгоритмів.&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -434,10 +434,10 @@
 &lt;figure id=&#34;figure-рис-23-основні-алгоритмічні-структури&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; data-caption=&#34;Рис. 2.3. Основні алгоритмічні структури&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; data-caption=&#34;Рис. 2.3. Основні алгоритмічні структури&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -474,10 +474,10 @@
 &lt;figure id=&#34;figure-рис-24-зображення-циклів-за-допомогою-блок-схем&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; data-caption=&#34;Рис. 2.4. Зображення циклів за допомогою блок-схем&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; data-caption=&#34;Рис. 2.4. Зображення циклів за допомогою блок-схем&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -513,10 +513,10 @@
 &lt;figure id=&#34;figure-рис-25-блок-схема-алгоритму-знаходження-коренів-квадратного-рівняння-до-задачі-1&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; data-caption=&#34;Рис. 2.5. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №1&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; data-caption=&#34;Рис. 2.5. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №1&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -556,10 +556,10 @@
 &lt;figure id=&#34;figure-рис-26-блок-схема-алгоритму-знаходження-коренів-квадратного-рівняння-до-задачі-2&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; data-caption=&#34;Рис. 2.6. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №2&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; data-caption=&#34;Рис. 2.6. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №2&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -598,10 +598,10 @@
 &lt;figure id=&#34;figure-рис-27-блок-схема-алгоритму-до-задачі-3&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; data-caption=&#34;Рис. 2.7. Блок-схема алгоритму до задачі №3&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; data-caption=&#34;Рис. 2.7. Блок-схема алгоритму до задачі №3&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -640,10 +640,10 @@
 &lt;figure id=&#34;figure-рис-28-блок-схема-до-задачі-4&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; data-caption=&#34;Рис. 2.8. Блок-схема до задачі №4&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; data-caption=&#34;Рис. 2.8. Блок-схема до задачі №4&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -685,10 +685,10 @@
 &lt;figure id=&#34;figure-рис-29-блок-схема-до-задачі-5&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; data-caption=&#34;Рис. 2.9. Блок-схема до задачі №5&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; data-caption=&#34;Рис. 2.9. Блок-схема до задачі №5&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -729,10 +729,10 @@
 &lt;figure id=&#34;figure-рис-210-блок-схема-до-задачі-6&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; data-caption=&#34;Рис. 2.10. Блок-схема до задачі №6&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; data-caption=&#34;Рис. 2.10. Блок-схема до задачі №6&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -773,10 +773,10 @@
 &lt;figure id=&#34;figure-рис-211-блок-схема-до-задачі-7&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; data-caption=&#34;Рис. 2.11. Блок-схема до задачі №7&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; data-caption=&#34;Рис. 2.11. Блок-схема до задачі №7&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -827,10 +827,10 @@
 &lt;figure id=&#34;figure-рис-212-головне-вікно-програми-diagramm-designer-123&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; data-caption=&#34;Рис. 2.12. Головне вікно програми Diagramm Designer 1.23&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; data-caption=&#34;Рис. 2.12. Головне вікно програми Diagramm Designer 1.23&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -867,10 +867,10 @@
 &lt;figure id=&#34;figure-рис-213-вибір-сторінки-у-програмі-diagramm-designer&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; data-caption=&#34;Рис. 2.13. Вибір сторінки у програмі Diagramm Designer&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; data-caption=&#34;Рис. 2.13. Вибір сторінки у програмі Diagramm Designer&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -905,10 +905,10 @@
 &lt;figure id=&#34;figure-рис-214-редагування-тексту-у-блоці-diagramm-designer&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; data-caption=&#34;Рис. 2.14. Редагування тексту у блоці Diagramm Designer.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; data-caption=&#34;Рис. 2.14. Редагування тексту у блоці Diagramm Designer.&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1065,10 +1065,10 @@
 &lt;figure id=&#34;figure-рис-215-вибір-джерела-для-збереження-drawio&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; data-caption=&#34;Рис. 2.15. Вибір джерела для збереження &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt;&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; data-caption=&#34;Рис. 2.15. Вибір джерела для збереження &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt;&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1103,10 +1103,902 @@
 &lt;figure id=&#34;figure-рис-216-ui-головного-вікна-програми-drawio-для-windows&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; data-caption=&#34;Рис. 2.16. UI головного вікна програми &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt; для &amp;lt;code&amp;gt;Windows&amp;lt;/code&amp;gt;&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; data-caption=&#34;Рис. 2.16. UI головного вікна програми &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt; для &amp;lt;code&amp;gt;Windows&amp;lt;/code&amp;gt;&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.16. UI головного вікна програми &lt;code&gt;draw.io&lt;/code&gt; для &lt;code&gt;Windows&lt;/code&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Досить зручною є функція збереження діаграм для публікації у веб або на паперових носіях формати файлів (png, jpeg, svg, pdf, html, xml), а також вбудовування їх у різні типи документів, що надають сервіси &lt;code&gt;Google&lt;/code&gt; та &lt;code&gt;Microsoft&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Для початку ознайомлення з сервісом &lt;code&gt;draw.io&lt;/code&gt; рекомендую переглянути коротке відео:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Z0D96ZikMkc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Джерело: 
+&lt;a href=&#34;https://www.youtube.com/channel/UCiTtRN9b8P4CoSfpkfgEJHA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;youtube канал draw.io&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+  &lt;i class=&#34;fas fa-question-circle fa-2x text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;h2 id=&#34;контрольні-запитання&#34;&gt;Контрольні запитання&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Дати визначення поняття «алгоритм»?&lt;/li&gt;
+&lt;li&gt;Перелічіть властивості алгоритмів.&lt;/li&gt;
+&lt;li&gt;Якими способами можна представити алгоритм?&lt;/li&gt;
+&lt;li&gt;Які типові блоки для формування блок-схем алгоритмів ви знаєте? Як вони зображуються графічно?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+
+  &lt;i class=&#34;fas fa-book fa-2x text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;h2 id=&#34;список-використаних-джерел&#34;&gt;Список використаних джерел&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ada Lovelace on Wikipedia. Url: &lt;a href=&#34;https://en.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;https://en.wikipedia.org/wiki/Ada_Lovelace&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DiagramDesigner. Url: &lt;a href=&#34;https://logicnet.dk/DiagramDesigner/&#34;&gt;https://logicnet.dk/DiagramDesigner/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Draw.IO. Url: &lt;a href=&#34;https://www.diagrams.net/&#34;&gt;https://www.diagrams.net/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Albahari, J., &amp;amp; Albahari, B. (2012). C# 5.0 in a Nutshell, Fifth Edition. 1005 Gravenstein Highway North, Sebastopol, USA: O’Reilly Media, Inc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cardelli, L., &amp;amp; Wegner, P. (December 1985 p.). On Understanding Types, Data Abstraction, and Polymorphism. ACM Computing 1. Surveys, 17(4), сс. 149-154. Отримано з &lt;a href=&#34;http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf&#34;&gt;http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kort, W. d. (2013). Exam Ref 70-483: Programming in C#. Sebastopol, California 95472: O’Reilly Media, Inc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MSDN. (без дати). Отримано з Microsoft Developer Network: &lt;a href=&#34;http://msdn.microsoft.com/&#34;&gt;http://msdn.microsoft.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Биллиг, А. (2005). Основы программирования на C#. Москва, Россия: НОУ ИНТУИТ.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Нейгел, К. И. (2011). С# 4.0 и платформа .NET 4 для профессионалов. Москва, Россия: ООО &amp;ldquo;И.Д. Вильямс&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Павловская, Т. (2009). С#. Программирование на языке высокого уровня. Учебник для вузов. СПб, Россия: Питер.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!--
+---
+
+
+  &lt;i class=&#34;fas fa-list-alt fa-2x text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+## Задачі
+--&gt;
+&lt;hr&gt;
+
+  &lt;i class=&#34;fas fa-download fa-2x  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;h2 id=&#34;додаткові-матеріали-для-завнатаження&#34;&gt;Додаткові матеріали для завнатаження&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;del&gt;Лекція у форматі DOCX 
+&lt;a href=&#34;&#34;&gt;
+  &lt;i class=&#34;fas fa-file-word  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити&lt;/a&gt;&lt;/del&gt; (у розробці)&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Лекція у форматі PDF 
+&lt;a href=&#34;&#34;&gt;
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити&lt;/a&gt;&lt;/del&gt; (у розробці)&lt;/li&gt;
+&lt;li&gt;Діаграми до лекції у форматі &lt;code&gt;
+  &lt;i class=&#34;fas fa-project-diagram  pr-1 fa-fw&#34;&gt;&lt;/i&gt;draw.io&lt;/code&gt; на &lt;code&gt;
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt;github&lt;/code&gt; 
+&lt;a href=&#34;https://github.com/kleban/csharp-basics-public/tree/master/diagrams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; Перейти&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Дорогі друзі, якщо Ви помітили, що для написання матеріалів використані джерела, які я не вказав - прошу надіслати мені інформацію на пошту.
+Дякую.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Лекція 3. Основи роботи з Visual Studio та платформою .NET</title>
+      <link>/courses/csharp-basics/lecture2/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0100</pubDate>
+      <guid>/courses/csharp-basics/lecture2/</guid>
+      <description>&lt;hr&gt;
+&lt;h2&gt;План&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#31коротка-характеристика-та-історія-розвитку-середовища-розробки-visual-studio&#34;&gt;3.1	Коротка характеристика та історія розвитку середовища розробки Visual Studio.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#22-побудова-алгоритмів-з-використанням-блок-схем&#34;&gt;2.2. Побудова алгоритмів з використанням блок-схем&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#23ствоерення-блок-схем-з-використанням-diagramm-designer&#34;&gt;2.3.	Ствоерення блок-схем з використанням Diagramm Designer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#24ствоерення-блок-схем-з-використанням-drawio&#34;&gt;2.4.	Ствоерення блок-схем з використанням draw.io&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#контрольні-запитання&#34;&gt;Контрольні запитання&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#список-використаних-джерел&#34;&gt;Список використаних джерел&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#додаткові-матеріали-для-завнатаження&#34;&gt;Додаткові матеріали для завнатаження&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;31коротка-характеристика-та-історія-розвитку-середовища-розробки-visual-studio&#34;&gt;3.1	Коротка характеристика та історія розвитку середовища розробки Visual Studio.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;Microsoft Visual Studio&lt;/code&gt;&lt;/strong&gt; - лінійка продуктів компанії Майкрософт, що включають інтегроване середовище розробки програмного забезпечення і ряд інших інструментальних засобів.&lt;/p&gt;
+&lt;p&gt;Середовище розробки &lt;code&gt;Visual Studio&lt;/code&gt; представляє собою повний набір інструментів для створення як настільних додатків, так і корпоративних веб-додатків для спільної роботи груп. Використовуючи ефективні інструменти розробки &lt;code&gt;Visual Studio&lt;/code&gt;, засновані на використанні компонентів, та інші технології, можна не тільки створювати ефективно працюючі настільні додатки, але і спрощувати спільне проектування, розробку і розгортання корпоративних рішень.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Visual Studio&lt;/code&gt; включає один або декілька компонентів з наступних:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Visual Basic .NET&lt;/code&gt;, а до його появи - &lt;code&gt;Visual Basic&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Visual C++&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Visual C#&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Visual F#&lt;/code&gt; (включений у &lt;code&gt;Visual Studio 2010&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Багато варіантів поставки також включають	&lt;code&gt;Microsoft SQL Server&lt;/code&gt; або &lt;code&gt;Microsoft SQL Server Express&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;На сьогодні &lt;code&gt;Visual Studio&lt;/code&gt; уже підтримує досить велику кількість мов програмування та фреймворків не лише зі стеку &lt;code&gt;.NET&lt;/code&gt;-технологій.&lt;/p&gt;
+&lt;p&gt;Опишемо коротко найважливіші версії &lt;code&gt;IDE Visual Studio&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Visual Studio 97&lt;/code&gt; - перша випущена версія &lt;code&gt;Visual Studio&lt;/code&gt;, у ній вперше були зібрані разом різні засоби розробки ПЗ. Вона була випущена в двох версіях &lt;code&gt;Professional&lt;/code&gt; та &lt;code&gt;Enterprise&lt;/code&gt;. Вона включала в себе &lt;code&gt;Visual Basic 5.0&lt;/code&gt;, &lt;code&gt;Visual C++ 5.0&lt;/code&gt;, &lt;code&gt;Visual J++ 1.1&lt;/code&gt;, &lt;code&gt;Visual FoxPro 5.0&lt;/code&gt;, вперше з&amp;rsquo;явилося середовище розробки &lt;code&gt;ASP - Visual InterDev&lt;/code&gt;. &lt;code&gt;Visual Studio 97&lt;/code&gt; - була першою спробою &lt;code&gt;Microsoft&lt;/code&gt; створити єдине середовище для розробки на різних мовах програмування: &lt;code&gt;Visual C++&lt;/code&gt;, &lt;code&gt;Visual J++&lt;/code&gt;, &lt;code&gt;Visual InterDev&lt;/code&gt;, і MSDN використовували одне середовище, так зване &lt;code&gt;Developer Studio&lt;/code&gt;. &lt;code&gt;Visual Basic&lt;/code&gt; і &lt;code&gt;Visual FoxPro&lt;/code&gt; використовували окремі середовища для розробки.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Visual Studio. NET&lt;/code&gt; (кодове ім&amp;rsquo;я &lt;code&gt;Rainier&lt;/code&gt;; внутрішня версія 7.0) - випущена в лютому 2002 (включає &lt;code&gt;.NET Framework 1.0&lt;/code&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Visual Studio. NET 2003&lt;/code&gt; (кодове ім&amp;rsquo;я &lt;code&gt;Everett&lt;/code&gt;; внутрішня версія 7.1) - випущена в квітні 2003 (включає &lt;code&gt;.NET Framework 1.1&lt;/code&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Visual Studio 2005&lt;/code&gt; (кодове ім&amp;rsquo;я &lt;code&gt;Whidbey&lt;/code&gt;; внутрішня версія 8.0) - випущена в кінці жовтня 2005, остання що офіційно працює на &lt;code&gt;Windows 2000&lt;/code&gt;, (включає &lt;code&gt;.NET Framework 2.0&lt;/code&gt;). На початку листопада 2005 також вийшла серія продуктів в редакції &lt;code&gt;Express&lt;/code&gt;: &lt;code&gt;Visual C++ 2005 Express&lt;/code&gt;, &lt;code&gt;Visual Basic 2005 Express&lt;/code&gt;, &lt;code&gt;Visual C # 2005 Express&lt;/code&gt; і ін. 19 квітня 2006 редакція &lt;code&gt;Express&lt;/code&gt; стала безкоштовною.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Visual Studio 2008&lt;/code&gt; (кодове ім&amp;rsquo;я &lt;code&gt;Orcas&lt;/code&gt;) - випущена 19 листопада 2007, одночасно з . &lt;code&gt;NET Framework 3.5&lt;/code&gt;. Націлена на створення додатків для ОС &lt;code&gt;Windows Vista&lt;/code&gt; (але підтримує і &lt;code&gt;XP&lt;/code&gt;), &lt;code&gt;Office 2007&lt;/code&gt; та веб-додатків. Включає в себе &lt;code&gt;LINQ&lt;/code&gt;, нові версії мов &lt;code&gt;C#&lt;/code&gt; і &lt;code&gt;Visual Basic&lt;/code&gt;. До студії не увійшов &lt;code&gt;Visual J#&lt;/code&gt;. З 28 жовтня 2008 вперше доступна версія російською мовою.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Visual Studio 2010&lt;/code&gt; (кодове ім&amp;rsquo;я &lt;code&gt;Hawaii&lt;/code&gt;, для &lt;code&gt;Ultimate&lt;/code&gt; - &lt;code&gt;Rosario&lt;/code&gt;) - випущена 12 квітня 2010 разом з &lt;code&gt;.NET Framework 4.0&lt;/code&gt;. &lt;code&gt;Visual Studio&lt;/code&gt; включає підтримку мов &lt;code&gt;C# 4.0&lt;/code&gt; і &lt;code&gt;Visual Basic. NET 10.0&lt;/code&gt;, а також мову &lt;code&gt;F#&lt;/code&gt;, яка була відсутня в попередніх версіях.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;22-побудова-алгоритмів-з-використанням-блок-схем&#34;&gt;2.2. Побудова алгоритмів з використанням блок-схем&lt;/h2&gt;
+&lt;p&gt;Для зображення алгоритмів використовуватимемо блок-схеми, що формуються з типових блоків:&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-22-типові-блоки-для-формування-блок-схем-алгоритмів&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; data-caption=&#34;Рис. 2.2. Типові блоки для формування блок-схем алгоритмів.&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.2. Типові блоки для формування блок-схем алгоритмів.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Усі блок-схеми створено у &lt;em&gt;draw.io&lt;/em&gt;.&lt;br&gt; Файли можна знайти &lt;a href=&#34;https://github.com/kleban/csharp-basics-public/blob/master/diagrams&#34;&gt;у github репозиторії курсу&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;У теорії алгоритмів доведено, що будь-який, скільки завгодно складний алгоритм може бути складений з трьох основних алгоритмічних структур: лінійної, розгалуження і циклу, показаних, відповідно на &lt;code&gt;рис. 2.3&lt;/code&gt;.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-23-основні-алгоритмічні-структури&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; data-caption=&#34;Рис. 2.3. Основні алгоритмічні структури&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.3. Основні алгоритмічні структури
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Лінійна структура передбачає послідовне виконання дій, без їх повторення або пропуску деяких дій. Зазвичай програмісти прагнуть до того, аби алгоритм мав лінійну структуру.&lt;/p&gt;
+&lt;p&gt;Структура &amp;ldquo;розгалуження&amp;rdquo; передбачає виконання однієї з двох груп дій залежно від виконання умови у блоці розгалуження. На рис. 3 знаком &amp;ldquo;+&amp;rdquo; показано виконання умови, а знаком &amp;ldquo;-&amp;rdquo; - його невиконання. Часто використовується неповна команда розгалуження, коли один з блоків дії відсутній.&lt;/p&gt;
+&lt;p&gt;Структура &amp;ldquo;цикл&amp;rdquo; має декілька різновидів. На рис. 3 показаний цикл типу &amp;ldquo;доки&amp;rdquo; (&lt;code&gt;while&lt;/code&gt;) з передумовою. Дії всередині цього циклу повторюються доки виконується умова у блоці розгалуження, причому спочатку перевіряється умова, а потім виконується дія. Досить часто використовуються інші типи циклу, показані на &lt;code&gt;рис. 2.4&lt;/code&gt;.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-24-зображення-циклів-за-допомогою-блок-схем&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; data-caption=&#34;Рис. 2.4. Зображення циклів за допомогою блок-схем&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.4. Зображення циклів за допомогою блок-схем
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;У циклі з після умовою перевірка умови виходу з циклу виконується після чергової дії. Цикл &amp;ldquo;для (&lt;code&gt;for&lt;/code&gt;)&amp;rdquo; є модифікацією циклу &amp;ldquo;доки (&lt;code&gt;while&lt;/code&gt;)&amp;rdquo; для ситуації, коли заздалегідь відома кількість повторень деяких дій. Запис у блоці заголовка циклу на рис.3 показує приклад опису заголовка циклу, в якому дії повторюються стільки раз, скільки цілих значень набуває параметра циклу i від свого початкового значення 1 до кінцевого N з кроком 1. Зазвичай крок не вказується, якщо він дорівнює 1.&lt;/p&gt;
+&lt;p&gt;Тепер запишемо алгоритм розв’язання задачі 1 у графічному вигляді.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-25-блок-схема-алгоритму-знаходження-коренів-квадратного-рівняння-до-задачі-1&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; data-caption=&#34;Рис. 2.5. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №1&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.5. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №1
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Для закріплення знань по лінійних структурах та розгалуженнях побудуємо графічне відображення алгоритмів для кількох задач.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 2.&lt;/strong&gt; Побудувати блок-схему алгоритму перевірки введеного числа на невід’ємність.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-26-блок-схема-алгоритму-знаходження-коренів-квадратного-рівняння-до-задачі-2&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; data-caption=&#34;Рис. 2.6. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №2&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.6. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №2
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 3.&lt;/strong&gt; Побудувати блок-схему алгоритму зходження периметра та площі трикутника за формулою Герона.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-27-блок-схема-алгоритму-до-задачі-3&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; data-caption=&#34;Рис. 2.7. Блок-схема алгоритму до задачі №3&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.7. Блок-схема алгоритму до задачі №3
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 4.&lt;/strong&gt; Побудувати блок-схему алгоритму порівняння двох чисел.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-28-блок-схема-до-задачі-4&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; data-caption=&#34;Рис. 2.8. Блок-схема до задачі №4&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.8. Блок-схема до задачі №4
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;Для закріплення знань по циклічних структурах побудуємо графічне відображення алгоритмів для кількох задач.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 5.&lt;/strong&gt; Побудувати блок-схему алгоритму знаходження суми елементів у масиву.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-info-circle text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Введемо позначення: $ n $ – кількість елементів масиву, $ sum $ – змінна, що визначає суму, $ x_i $ – $ і $-й елемент масиву.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-29-блок-схема-до-задачі-5&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; data-caption=&#34;Рис. 2.9. Блок-схема до задачі №5&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.9. Блок-схема до задачі №5
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+ &lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 6.&lt;/strong&gt; Побудувати блок-схему алгоритму знаходження середнього значення елементів масиву.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-info-circle text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ця задача відрізнється від попередньої лише появою нової змінної $ avg $ – середнє значення.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-210-блок-схема-до-задачі-6&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; data-caption=&#34;Рис. 2.10. Блок-схема до задачі №6&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.10. Блок-схема до задачі №6
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+ &lt;/center&gt;
+&lt;hr&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-question-circle text-warning  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Задача 7.&lt;/strong&gt; Побудувати блок-схему алгоритму знаходження максимального елемента у масиві.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-info-circle text-primary  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Введемо позначення: $ max $ – максимальний елемент, $ n $ - кількість елементів у масиві, $ x_i $ – $ і $-й елемент масиву. Припускаємо що масив уже заповнений і наперед відомо кількість елементів у масиві.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;far fa-check-circle text-success  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;strong&gt;Розвязання задачі графічним способом:&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-211-блок-схема-до-задачі-7&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; data-caption=&#34;Рис. 2.11. Блок-схема до задачі №7&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.11. Блок-схема до задачі №7
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+ &lt;/center&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;23ствоерення-блок-схем-з-використанням-diagramm-designer&#34;&gt;2.3.	Ствоерення блок-схем з використанням Diagramm Designer&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Diagramm Designer&lt;/strong&gt; - програмне забезпечення для побудови блок-схем, UML-діаграм, та інших зображень на основі векторної графіки. 
+&lt;a href=&#34;https://logicnet.dk/DiagramDesigner/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Завантажити актуальну версію DiagramDesigner можна тут&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Перелік базових функцій Diagramm Designer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Налаштовувана палітра шаблонів.&lt;/li&gt;
+&lt;li&gt;Перевірка правопису.&lt;/li&gt;
+&lt;li&gt;Імпорт / експорт зображень &lt;code&gt;WMF&lt;/code&gt;, &lt;code&gt;EMF&lt;/code&gt;, &lt;code&gt;BMP&lt;/code&gt;, &lt;code&gt;JPEG&lt;/code&gt;, &lt;code&gt;PNG&lt;/code&gt;, &lt;code&gt;MNG&lt;/code&gt;, &lt;code&gt;ICO&lt;/code&gt;, &lt;code&gt;GIF&lt;/code&gt; та &lt;code&gt;PCX&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Переглядач слайд-шоу.&lt;/li&gt;
+&lt;li&gt;Зручний графічний редактор для відображення математичних виразів.&lt;/li&gt;
+&lt;li&gt;Калькулятор для розв&amp;rsquo;язання рівнянь.&lt;/li&gt;
+&lt;li&gt;Інтеграція з &lt;code&gt;MeeSoft Image Analyzer&lt;/code&gt; для редагування растрових зображень.&lt;/li&gt;
+&lt;li&gt;Мінімізація розміру файлів.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Розглянемо графічний інтерфейс продукту:&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-212-головне-вікно-програми-diagramm-designer-123&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; data-caption=&#34;Рис. 2.12. Головне вікно програми Diagramm Designer 1.23&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.12. Головне вікно програми Diagramm Designer 1.23
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Для створення діаграм використовуєть технологія &lt;code&gt;Drag&amp;amp;Drop&lt;/code&gt;, тобто елементи можна перетягувати на робочу область.
+Приклад створення діаграми можна переглянути на відео (у онлайн версії лекції).&lt;/p&gt;
+&lt;p&gt;Документ &lt;code&gt;DiagrammDesigner&lt;/code&gt; може мати кілька сторінок, переключення між сторінками за допомогою меню &lt;code&gt;Diagram&lt;/code&gt; - &lt;code&gt;Rearrange pages&lt;/code&gt; (рис. 2.13).&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-213-вибір-сторінки-у-програмі-diagramm-designer&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; data-caption=&#34;Рис. 2.13. Вибір сторінки у програмі Diagramm Designer&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.13. Вибір сторінки у програмі Diagramm Designer
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Для форматування тексту у межах графічних блоків (фігур) використовують наступні теги:&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-214-редагування-тексту-у-блоці-diagramm-designer&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; data-caption=&#34;Рис. 2.14. Редагування тексту у блоці Diagramm Designer.&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.14. Редагування тексту у блоці Diagramm Designer.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;&lt;em&gt;Таблиця 2.1. Теги для форматування тексту у графічних блоках DiagrammDesigner&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Код&lt;/th&gt;
+&lt;th&gt;Стиль&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\B…\b&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Напівжирний&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\U…\u&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Підкреслений&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\I…\i&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Курсив&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\O…\o&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Закреслений&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\\&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;\&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\H…\h&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Припіднятий до верху&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\S…\s&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Символьний шрифт&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\p&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Номер сторінки&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\L…\l&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Опущений до низу&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\C######&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Колір у HTML&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\P&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Загловок сторінки&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\c&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Кількість сторінок&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\_&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Горизонтальний розділювач&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\n&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Новий рядок&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\N&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Підказка&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;Таблиця 2.2. Приклади форматування тексту у графічних блоках DiagrammDesigner&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Код з тегами&lt;/th&gt;
+&lt;th&gt;Текст&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\B\ID=b\H2\h-4ac&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;$ D=b^2-4ac $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Вводимо значення &lt;code&gt;\Ba, b, c&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Вводимо значення $ a $, $ b $, $ c $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;\ID &amp;gt; 0&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;$	D &amp;gt; 0 $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Вводимо &lt;code&gt;\B\Ix\Li\i&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Вводимо $ x_i $&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;З іншими можливостями програмного подукту Diagramm Designer можна ознайомитися використовуючи вбудовану довідку програми.&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Підтримка даного розділу лекції у майбутньому не планується і його варто використовувати швидше для ознайомлення та розширення кругозору слухачів курсу. Рекомендую використовувати &lt;code&gt;draw.io&lt;/code&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;24ствоерення-блок-схем-з-використанням-drawio&#34;&gt;2.4.	Ствоерення блок-схем з використанням draw.io&lt;/h2&gt;
+&lt;p&gt;Варто звернути увагу, що усі діаграми для лекцій створені саме у &lt;code&gt;draw.io&lt;/code&gt; і можете завантажити їх у 
+&lt;a href=&#34;https://github.com/kleban/csharp-basics-public/blob/master/diagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;публічному репозиторії курсу на github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;На даний момент проект є безкоштовним і розміщується за адресою 
+&lt;a href=&#34;http://diagrams.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://diagrams.net/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Досить зручною функцією є інтеграція сервісами для зберігання файлів діаграм:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fab fa-google-drive  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Google Drive.&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fas fa-cloud  pr-1 fa-fw&#34;&gt;&lt;/i&gt; OneDrive.&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fab fa-dropbox  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Dropbox.&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt; GitHub.&lt;/li&gt;
+&lt;li&gt;
+  &lt;i class=&#34;fab fa-gitlab  pr-1 fa-fw&#34;&gt;&lt;/i&gt; GitLab.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-215-вибір-джерела-для-збереження-drawio&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; data-caption=&#34;Рис. 2.15. Вибір джерела для збереження &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt;&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Рис. 2.15. Вибір джерела для збереження &lt;code&gt;draw.io&lt;/code&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ 
+&lt;/center&gt;
+&lt;p&gt;Графічний інтерфейс &lt;code&gt;draw.io&lt;/code&gt; є досить зручним у користуванні і дозволяє доповнити перелік доступних зображень, блоків, логотипів продуктів для створення схем будь-якого рівня складності.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-рис-216-ui-головного-вікна-програми-drawio-для-windows&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; data-caption=&#34;Рис. 2.16. UI головного вікна програми &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt; для &amp;lt;code&amp;gt;Windows&amp;lt;/code&amp;gt;&#34;&gt;
+
+
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

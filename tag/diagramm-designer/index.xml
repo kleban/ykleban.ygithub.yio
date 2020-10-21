@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diagramm Designer | kleban.page</title>
-    <link>https://kleban.page/tag/diagramm-designer/</link>
-      <atom:link href="https://kleban.page/tag/diagramm-designer/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/diagramm-designer/</link>
+      <atom:link href="/tag/diagramm-designer/index.xml" rel="self" type="application/rss+xml" />
     <description>Diagramm Designer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Yurii Kleban</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://kleban.page/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Diagramm Designer</title>
-      <link>https://kleban.page/tag/diagramm-designer/</link>
+      <link>/tag/diagramm-designer/</link>
     </image>
     
     <item>
       <title>Лекція 2. Основи алгоритмізації</title>
-      <link>https://kleban.page/courses/csharp-basics/lecture2/</link>
+      <link>/courses/csharp-basics/lecture3/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0100</pubDate>
-      <guid>https://kleban.page/courses/csharp-basics/lecture2/</guid>
+      <guid>/courses/csharp-basics/lecture3/</guid>
       <description>&lt;hr&gt;
 &lt;h2&gt;План&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -54,10 +54,10 @@
 &lt;figure id=&#34;figure-рис-21-баронеса-ада-лавлейс-яку-вважають-першим-програмістом-джерело-wikipedia&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/334px-Ada_Lovelace_portrait.jpg&#34; data-caption=&#34;Рис. 2.1. Баронеса Ада Лавлейс, яку вважають першим програмістом. Джерело: Wikipedia&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/334px-Ada_Lovelace_portrait.jpg&#34; data-caption=&#34;Рис. 2.1. Баронеса Ада Лавлейс, яку вважають першим програмістом. Джерело: Wikipedia&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/334px-Ada_Lovelace_portrait.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/334px-Ada_Lovelace_portrait.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -162,10 +162,10 @@
 &lt;figure id=&#34;figure-рис-22-типові-блоки-для-формування-блок-схем-алгоритмів&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; data-caption=&#34;Рис. 2.2. Типові блоки для формування блок-схем алгоритмів.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; data-caption=&#34;Рис. 2.2. Типові блоки для формування блок-схем алгоритмів.&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-blocks.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -205,10 +205,10 @@
 &lt;figure id=&#34;figure-рис-23-основні-алгоритмічні-структури&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; data-caption=&#34;Рис. 2.3. Основні алгоритмічні структури&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; data-caption=&#34;Рис. 2.3. Основні алгоритмічні структури&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-structures.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -245,10 +245,10 @@
 &lt;figure id=&#34;figure-рис-24-зображення-циклів-за-допомогою-блок-схем&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; data-caption=&#34;Рис. 2.4. Зображення циклів за допомогою блок-схем&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; data-caption=&#34;Рис. 2.4. Зображення циклів за допомогою блок-схем&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-algorithm-blocks-loops.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -284,10 +284,10 @@
 &lt;figure id=&#34;figure-рис-25-блок-схема-алгоритму-знаходження-коренів-квадратного-рівняння-до-задачі-1&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; data-caption=&#34;Рис. 2.5. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №1&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; data-caption=&#34;Рис. 2.5. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №1&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task1.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -327,10 +327,10 @@
 &lt;figure id=&#34;figure-рис-26-блок-схема-алгоритму-знаходження-коренів-квадратного-рівняння-до-задачі-2&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; data-caption=&#34;Рис. 2.6. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №2&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; data-caption=&#34;Рис. 2.6. Блок-схема алгоритму знаходження коренів квадратного рівняння до задачі №2&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task2.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -369,10 +369,10 @@
 &lt;figure id=&#34;figure-рис-27-блок-схема-алгоритму-до-задачі-3&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; data-caption=&#34;Рис. 2.7. Блок-схема алгоритму до задачі №3&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; data-caption=&#34;Рис. 2.7. Блок-схема алгоритму до задачі №3&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task3.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -411,10 +411,10 @@
 &lt;figure id=&#34;figure-рис-28-блок-схема-до-задачі-4&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; data-caption=&#34;Рис. 2.8. Блок-схема до задачі №4&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; data-caption=&#34;Рис. 2.8. Блок-схема до задачі №4&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task4.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -456,10 +456,10 @@
 &lt;figure id=&#34;figure-рис-29-блок-схема-до-задачі-5&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; data-caption=&#34;Рис. 2.9. Блок-схема до задачі №5&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; data-caption=&#34;Рис. 2.9. Блок-схема до задачі №5&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task5.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -500,10 +500,10 @@
 &lt;figure id=&#34;figure-рис-210-блок-схема-до-задачі-6&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; data-caption=&#34;Рис. 2.10. Блок-схема до задачі №6&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; data-caption=&#34;Рис. 2.10. Блок-схема до задачі №6&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task6.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -544,10 +544,10 @@
 &lt;figure id=&#34;figure-рис-211-блок-схема-до-задачі-7&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; data-caption=&#34;Рис. 2.11. Блок-схема до задачі №7&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; data-caption=&#34;Рис. 2.11. Блок-схема до задачі №7&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/svg/lecture-2-tasks-task7.svg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -598,10 +598,10 @@
 &lt;figure id=&#34;figure-рис-212-головне-вікно-програми-diagramm-designer-123&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; data-caption=&#34;Рис. 2.12. Головне вікно програми Diagramm Designer 1.23&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; data-caption=&#34;Рис. 2.12. Головне вікно програми Diagramm Designer 1.23&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -638,10 +638,10 @@
 &lt;figure id=&#34;figure-рис-213-вибір-сторінки-у-програмі-diagramm-designer&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; data-caption=&#34;Рис. 2.13. Вибір сторінки у програмі Diagramm Designer&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; data-caption=&#34;Рис. 2.13. Вибір сторінки у програмі Diagramm Designer&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_2.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -676,10 +676,10 @@
 &lt;figure id=&#34;figure-рис-214-редагування-тексту-у-блоці-diagramm-designer&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; data-caption=&#34;Рис. 2.14. Редагування тексту у блоці Diagramm Designer.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; data-caption=&#34;Рис. 2.14. Редагування тексту у блоці Diagramm Designer.&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/diagramm_designer_3.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -836,10 +836,10 @@
 &lt;figure id=&#34;figure-рис-215-вибір-джерела-для-збереження-drawio&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; data-caption=&#34;Рис. 2.15. Вибір джерела для збереження &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt;&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; data-caption=&#34;Рис. 2.15. Вибір джерела для збереження &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt;&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/draw_io_1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -874,10 +874,10 @@
 &lt;figure id=&#34;figure-рис-216-ui-головного-вікна-програми-drawio-для-windows&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; data-caption=&#34;Рис. 2.16. UI головного вікна програми &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt; для &amp;lt;code&amp;gt;Windows&amp;lt;/code&amp;gt;&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; data-caption=&#34;Рис. 2.16. UI головного вікна програми &amp;lt;code&amp;gt;draw.io&amp;lt;/code&amp;gt; для &amp;lt;code&amp;gt;Windows&amp;lt;/code&amp;gt;&#34;&gt;
 
 
-  &lt;img src=&#34;https://kleban.page/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/media/courses/csharp-basics/lecture2/draw_io_2.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

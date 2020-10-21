@@ -3,222 +3,252 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kleban.page/courses/csharp-basics/</loc>
+    <loc>/courses/csharp-basics/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/courses/csharp-basics/lecture1/</loc>
+    <loc>/courses/csharp-basics/lecture1/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/courses/csharp-basics/lecture2/</loc>
+    <loc>/courses/csharp-basics/lecture3/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/talk/example/</loc>
+    <loc>/courses/csharp-basics/lecture2/</loc>
+    <lastmod>2020-07-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/courses/</loc>
+    <loc>/courses/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/algorithm/</loc>
+    <loc>/tag/.net-framework/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/c/</loc>
+    <loc>/tag/algorithm/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/csharp/</loc>
+    <loc>/tag/c/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/diagramm-designer/</loc>
+    <loc>/tag/console-application/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/draw.io/</loc>
+    <loc>/tag/csharp/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/economic-cybernetics/</loc>
+    <loc>/tag/diagramm-designer/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/ostroh-academy/</loc>
+    <loc>/tag/draw.io/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tags/</loc>
+    <loc>/tag/economic-cybernetics/</loc>
     <lastmod>2020-07-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/post/</loc>
+    <loc>/tag/ostroh-academy/</loc>
+    <lastmod>2020-07-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/visual-studio/</loc>
+    <lastmod>2020-07-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/post/writing-technical-content/</loc>
+    <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/publication-type/3/</loc>
+    <loc>/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/publication/preprint/</loc>
+    <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/author/nelson-bighetti/</loc>
+    <loc>/author/nelson-bighetti/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/source-themes/</loc>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/post/jupyter/</loc>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/deep-learning/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/demo/</loc>
+    <loc>/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/academic/</loc>
+    <loc>/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/category/demo/</loc>
+    <loc>/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/publication/journal-article/</loc>
+    <loc>/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/author/robert-ford/</loc>
+    <loc>/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kleban.page/publication/conference-paper/</loc>
+    <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
